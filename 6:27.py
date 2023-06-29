@@ -125,4 +125,3 @@ t2.speed(1)
 for i in range(35):
     t1.fd(r.randint(1,40))
     t2.fd(r.randint(1,40))
-
